@@ -8,9 +8,9 @@ function App() {
   return (
  <BrowserRouter>
 <Navbar/>
-
+<Main/>
 <Routes>
-<Route path="/carrier" element={<Main/>}/>
+
 
 
 
