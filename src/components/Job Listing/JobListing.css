@@ -1,0 +1,35 @@
+/* JobListing.css */
+.job-listing {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .job-listing h2 {
+    margin-top: 0;
+    font-size: 1.5rem;
+  }
+  
+  .job-listing p {
+    margin: 10px 0;
+    color: #444;
+  }
+  
+  .job-listing button {
+    background-color: #FF6B6B;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .job-listing button:hover {
+    background-color: #E64A4A;
+  }
+  

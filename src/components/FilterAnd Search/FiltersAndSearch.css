@@ -1,0 +1,42 @@
+/* FiltersAndSearch.css */
+.filters-search {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .filters-search select,
+  .filters-search input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+    margin-right: 10px;
+  }
+  
+  .filters-search input[type="text"] {
+    flex-grow: 1;
+  }
+  
+  .filters-search button {
+    background-color: #FF6B6B;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .filters-search button:hover {
+    background-color: #E64A4A;
+  }
+  
