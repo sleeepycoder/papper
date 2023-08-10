@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/papper/static/css/main.6acf816a.css",
-    "main.js": "/papper/static/js/main.c1cd2837.js",
+    "main.js": "/papper/static/js/main.679f1a01.js",
     "index.html": "/papper/index.html",
     "main.6acf816a.css.map": "/papper/static/css/main.6acf816a.css.map",
-    "main.c1cd2837.js.map": "/papper/static/js/main.c1cd2837.js.map"
+    "main.679f1a01.js.map": "/papper/static/js/main.679f1a01.js.map"
   },
   "entrypoints": [
     "static/css/main.6acf816a.css",
-    "static/js/main.c1cd2837.js"
+    "static/js/main.679f1a01.js"
   ]
 }
